@@ -1,0 +1,1 @@
+It has been developed to override the problems prevailing in manual management system.
